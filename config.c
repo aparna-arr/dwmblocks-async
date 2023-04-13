@@ -4,7 +4,7 @@
 #include "util.h"
 
 Block blocks[] = {
-/*
+
     {"sb-internet",    5,    2},
     {"sb-nettraf",    1,    6},
 //    
@@ -14,7 +14,7 @@ Block blocks[] = {
 //
 //
     {"sb-volume",  0,    8 },
-*/
+
     {"sb-battery", 5,    9 },
     {"sb-clock",    60,    1},
 //
